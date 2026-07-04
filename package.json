@@ -3,7 +3,7 @@
     "private": true,
     "version": "0.0.0",
     "type": "module",
-    "homepage": "https://github.com/sasisubhash/port-tamil",
+    "homepage": "https://sasisubhash.github.io/port-tamil",
     "scripts": {
         "dev": "vite",
         "build": "vite build",
