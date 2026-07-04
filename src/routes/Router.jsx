@@ -4,8 +4,7 @@ import Loading from "../components/common/loading/Loading";
 const Home = lazy(() => import("../pages/Home"));
 const Main = lazy(() => import("../layouts/Main"));
 
-const repoName = "/sasisubhash/port-tamil"
-
+const repoName = "/port-tamil";
 export const router = createBrowserRouter(
   [
     {
